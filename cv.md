@@ -20,26 +20,26 @@ I understand that I can achive and learn much more, so I decided to take this co
 
 
 ## Code Examples
-```javascript
-  let realisation = document.querySelector('.realisation');
-  if (realisation) {
-    document.addEventListener('click', function(evt) {
-      if (evt.target.classList.contains('realisation-open')) {
-        let section = evt.target.parentElement.parentElement.parentElement;
-        section.classList.add('opened');
-        if (section.nextElementSibling) {
-          section.nextElementSibling.classList.add('closed');
-        };
-        if (section.previousElementSibling) {
-          section.previousElementSibling.classList.add('closed');
-        };
-      };
+
+ 	let realisation = document.querySelector('.realisation');
+ 	if (realisation) {
+    	document.addEventListener('click', function(evt) {
+      		if (evt.target.classList.contains('realisation-open')) {
+        	let section = evt.target.parentElement.parentElement.parentElement;
+        	section.classList.add('opened');
+        	if (section.nextElementSibling) {
+          		section.nextElementSibling.classList.add('closed');
+        	};
+        	if (section.previousElementSibling) {
+          		section.previousElementSibling.classList.add('closed');
+        	};
+      	};
     });
-    ```
+
 
 ## Experience
 * Internship in [Liga A](https://ligaa.agency/) for half a year
-* Work in [Webenergy](https://webenergy-it.ru/) Web Studio
+* Work in [Webenergy](https://webenergy-it.ru/) Web Studio as a Frontend Developer
 
 ## Education
 * Bachelors Degree in Linguistics at [Herzen University](https://www.herzen.spb.ru/) '18
