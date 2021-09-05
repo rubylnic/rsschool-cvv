@@ -20,7 +20,7 @@ I understand that I can achive and learn much more, so I decided to take this co
 
 
 ##Code Examples
-`
+```
   let realisation = document.querySelector('.realisation');
   if (realisation) {
     document.addEventListener('click', function(evt) {
@@ -35,7 +35,7 @@ I understand that I can achive and learn much more, so I decided to take this co
         };
       };
     });
-    `
+    ```
 
 ##Experience
 * Internship in [Liga A](https://ligaa.agency/) for half a year
