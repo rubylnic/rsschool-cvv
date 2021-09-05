@@ -19,7 +19,7 @@ I understand that I can achive and learn much more, so I decided to take this co
 * Photoshop, Figma
 
 
-##Code Examples
+## Code Examples
 ```
   let realisation = document.querySelector('.realisation');
   if (realisation) {
@@ -37,12 +37,12 @@ I understand that I can achive and learn much more, so I decided to take this co
     });
     ```
 
-##Experience
+## Experience
 * Internship in [Liga A](https://ligaa.agency/) for half a year
 * Work in [Webenergy](https://webenergy-it.ru/) Web Studio
 At work I've 
 
-##Education
+## Education
 * Bachelors Degree in Linguistics at [Herzen University](https://www.herzen.spb.ru/) '18
 * [HTML Academy](https://htmlacademy.ru/) course 'Frontend developer' (consisted of 3 courses, I worked with mentors, did homework and had completed 3 projects >90% success each))
 
