@@ -6,17 +6,17 @@
 * **GitHub** : [rubylnic](https://github.com/rubylnic)
 
 ## About me
-My Name is Ksenia , I am 24 years old Junior Frontend Developer. I have more than 5 years experience of teaching Russian and English, including working abroad for more than a year. While working as a teacher I started to learn Frontend development and I successfully finished a course on HTML Academy and got a cetificate that I'm a frontend developer. Also I had an internship for half a year in the same oraganisation. After the internship I almost next day got the job as a frontend developer in a small Web studio called "Webenergy", where I've been working for 7 month now. 
+My name is Ksenia , I am 24 years old Junior Frontend Developer. I have more than 5 years experience of teaching Russian and English, including working abroad for more than a year. While working as a teacher I started to learn Frontend development and I successfully finished a course on HTML Academy and got a cetificate that I'm a frontend developer. Also I had an internship for half a year in the same oraganisation. After the internship I almost next day got the job as a frontend developer in a small Web studio called "Webenergy", where I've been working for 7 month now. 
 I understand that I can achive and learn much more, so I decided to take this course. I'm quite a fast learner If I have practice. If I don't understand something I try to google it first then I ask for help. I don't give up and try to do everything well. I'm good at team work, I've worked together with Backend developers, designers and SEO specialists.
 
 ## What I know and can use
-*HTML
-*CSS (Sass, Less)
-*BEM
-*JavaScript (Fundamentals, ES6+, DOM)
-*Jquery 
-*Git/GitHub
-*Photoshop, Figma
+* HTML
+* CSS (Sass, Less)
+* BEM
+* JavaScript (Fundamentals, ES6+, DOM)
+* Jquery 
+* Git/GitHub
+* Photoshop, Figma
 
 
 ##Code Examples
