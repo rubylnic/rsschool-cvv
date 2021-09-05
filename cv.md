@@ -21,20 +21,20 @@ I understand that I can achive and learn much more, so I decided to take this co
 
 ## Code Examples
 
- 	let realisation = document.querySelector('.realisation');
- 	if (realisation) {
-    	document.addEventListener('click', function(evt) {
-      		if (evt.target.classList.contains('realisation-open')) {
-        	let section = evt.target.parentElement.parentElement.parentElement;
-        	section.classList.add('opened');
-        	if (section.nextElementSibling) {
-          		section.nextElementSibling.classList.add('closed');
-        	};
-        	if (section.previousElementSibling) {
-          		section.previousElementSibling.classList.add('closed');
-        	};
-      	};
-    });
+ 		let realisation = document.querySelector('.realisation');
+ 		if (realisation) {
+    		document.addEventListener('click', function(evt) {
+	      		if (evt.target.classList.contains('realisation-open')) {
+	        	let section = evt.target.parentElement.parentElement.parentElement;
+	        	section.classList.add('opened');
+	        	if (section.nextElementSibling) {
+	          		section.nextElementSibling.classList.add('closed');
+	        	};
+	        	if (section.previousElementSibling) {
+	          		section.previousElementSibling.classList.add('closed');
+	        	};
+      		};
+    	});
 
 
 ## Experience
