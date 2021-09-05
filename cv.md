@@ -20,7 +20,7 @@ I understand that I can achive and learn much more, so I decided to take this co
 
 
 ## Code Examples
-```
+```javascript
   let realisation = document.querySelector('.realisation');
   if (realisation) {
     document.addEventListener('click', function(evt) {
@@ -40,7 +40,6 @@ I understand that I can achive and learn much more, so I decided to take this co
 ## Experience
 * Internship in [Liga A](https://ligaa.agency/) for half a year
 * Work in [Webenergy](https://webenergy-it.ru/) Web Studio
-At work I've 
 
 ## Education
 * Bachelors Degree in Linguistics at [Herzen University](https://www.herzen.spb.ru/) '18
